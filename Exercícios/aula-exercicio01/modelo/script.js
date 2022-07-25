@@ -1,0 +1,1 @@
+window.alert("Cuidado, site em construção!!")
